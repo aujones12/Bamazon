@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aujones12/bamazon.git"
+  },
+  "author": "Austin Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aujones12/bamazon/issues"
+  },
+  "homepage": "https://github.com/aujones1/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  }
+}
